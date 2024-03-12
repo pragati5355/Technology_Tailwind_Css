@@ -1,22 +1,22 @@
 {
   "users": [
     {
-      "firstName": "Prafull",
-      "lastName": "Patil",
-      "phoneNo": "8482850810",
-      "email": "prafullpatil@gmail.com",
-      "password": "Aman@123",
+      "firstName": "Pragati",
+      "lastName": "Gawade",
+      "phoneNo": "9801234567",
+      "email": "pragatigawade@gmail.com",
+      "password": "Pragati@123",
       "id": 1
     },
     {
-      "email": "aman@gmail.com",
-      "password": "Aman@32",
+      "email": "nittya@gmail.com",
+      "password": "Nittya@32",
       "phone_no": "8482850810",
       "id": 2
     },
     {
-      "email": "sanket@gmail.com",
-      "password": "Sanket@32",
+      "email": "lucy@gmail.com",
+      "password": "Lucy@32",
       "phone_no": "1234567890",
       "id": 3
     }
@@ -24,7 +24,7 @@
   "blogs": [
     {
       "title": "Learn C Programming Language Tutorial",
-      "author": "Aman Patil",
+      "author": "Pragati Gawade",
       "description": "C language Tutorial with programming approach for beginners and professionals, helps you to understand the C language tutorial easily. Our C tutorial explains each topic with programs.The C Language is developed by Dennis Ritchie for creating system applications that directly interact with the hardware devices such as drivers, kernels, etc.\n\nC programming is considered as the base for other programming languages, that is why it is known as mother language.1) C as a mother language\nC language is considered as the mother language of all the modern programming languages because most of the compilers, JVMs, Kernels, etc. are written in C language, and most of the programming languages follow C syntax, for example, C++, Java, C#, etc.\n\nIt provides the core concepts like the array, strings, functions, file handling, etc. that are being used in many languages like C++, Java, C#, etc.",
       "publish_date": "2023-06-12T05:12:16.963Z",
       "techType": "C",
@@ -32,7 +32,7 @@
     },
     {
       "title": "Java Tutorial | Learn Java Programming",
-      "author": "Prafull",
+      "author": "Nittya",
       "description": "Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology. What is Java?\nJava is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.\n\nJava was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.\n\nPlatform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform.",
       "publish_date": "2023-06-12T05:16:08.494Z",
       "techType": "Java",
@@ -40,7 +40,7 @@
     },
     {
       "title": "Learn Python Tutorial | Python Programming Language",
-      "author": "Ravi Morya",
+      "author": "Lucy Gawade",
       "description": "What is Python\nPython is a general purpose, dynamic, high-level, and interpreted programming language. It supports Object Oriented programming approach to develop applications. It is simple and easy to learn and provides lots of high-level data structures.\n\nPython is easy to learn yet powerful and versatile scripting language, which makes it attractive for Application Development.\n\nPython's syntax and dynamic typing with its interpreted nature make it an ideal language for scripting and rapid application development.\n\nPython supports multiple programming pattern, including object-oriented, imperative, and functional or procedural programming styles.\n\nPython is not intended to work in a particular area, such as web programming. That is why it is known as multipurpose programming language because it can be used with web, enterprise, 3D CAD, etc.\n\nWe don't need to use data types to declare variable because it is dynamically typed so we can write a=10 to assign an integer value in an integer variable.",
       "publish_date": "2023-06-12T05:17:40.996Z",
       "techType": "Python",
@@ -48,7 +48,7 @@
     },
     {
       "title": "SwiftUI",
-      "author": "Rushikesh Salunke",
+      "author": "Mansi Katke",
       "description": "SwiftUI helps you build great-looking apps across all Apple platforms with the power of Swift — and surprisingly little code. You can bring even better experiences to everyone, on any Apple device, using just one set of tools and APIs.",
       "publish_date": "2023-06-27T05:33:19.481Z",
       "techType": "SwiftUI",
@@ -58,13 +58,13 @@
   "comment": [
     {
       "commentMsg": "great job!!!!",
-      "firstName": "aman",
-      "lastName": "patil",
-      "email": "aman@gmail.com",
-      "phoneNo": "8482850850",
+      "firstName": "pragati",
+      "lastName": "gawade",
+      "email": "pragatigawade@gmail.com",
+      "phoneNo": "9801234567",
       "blogDetails": {
         "title": "Learn C Programming Language Tutorial",
-        "author": "Aman Patil",
+        "author": "Pragati Gawade",
         "description": "C language Tutorial with programming approach for beginners and professionals, helps you to understand the C language tutorial easily. Our C tutorial explains each topic with programs.The C Language is developed by Dennis Ritchie for creating system applications that directly interact with the hardware devices such as drivers, kernels, etc.\n\nC programming is considered as the base for other programming languages, that is why it is known as mother language.1) C as a mother language\nC language is considered as the mother language of all the modern programming languages because most of the compilers, JVMs, Kernels, etc. are written in C language, and most of the programming languages follow C syntax, for example, C++, Java, C#, etc.\n\nIt provides the core concepts like the array, strings, functions, file handling, etc. that are being used in many languages like C++, Java, C#, etc.",
         "publish_date": "2023-06-12T05:12:16.963Z",
         "techType": "C",
@@ -74,49 +74,19 @@
     },
     {
       "commentMsg": "gread job!",
-      "firstName": "prafull",
-      "lastName": "patil",
-      "email": "prafull@mgail.com",
-      "phoneNo": "8482850810",
+      "firstName": "pragati",
+      "lastName": "gawade",
+      "email": "pragatigawade@gmail.com",
+      "phoneNo": "9801234567",
       "blogDetails": {
         "title": "Java Tutorial | Learn Java Programming",
-        "author": "Prafull",
+        "author": "Nittya",
         "description": "Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology. What is Java?\nJava is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.\n\nJava was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.\n\nPlatform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform.",
         "publish_date": "2023-06-12T05:16:08.494Z",
         "techType": "Java",
         "id": 2
       },
       "id": 3
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "phoneNo": "",
-      "blogDetails": {
-        "title": "Java Tutorial | Learn Java Programming",
-        "author": "Prafull",
-        "description": "Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology. What is Java?\nJava is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.\n\nJava was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.\n\nPlatform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform.",
-        "publish_date": "2023-06-12T05:16:08.494Z",
-        "techType": "Java",
-        "id": 2
-      },
-      "id": 4
-    },
-    {
-      "firstName": "",
-      "lastName": "",
-      "email": "",
-      "phoneNo": "",
-      "blogDetails": {
-        "title": "Java Tutorial | Learn Java Programming",
-        "author": "Prafull",
-        "description": "Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology. What is Java?\nJava is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.\n\nJava was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.\n\nPlatform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform.",
-        "publish_date": "2023-06-12T05:16:08.494Z",
-        "techType": "Java",
-        "id": 2
-      },
-      "id": 5
     }
   ]
 }
